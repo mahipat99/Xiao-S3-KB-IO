@@ -6,7 +6,7 @@
  Xiao ESP32-S3 or the Espressif ESP32-S3-USB-OTG board.
  However, this code may well work with other boards or board types.
 *******************************************************************/
-#include <arduino.h>
+#include <Arduino.h>
 #include "BLEDevice.h"
 #include "BLEHIDDevice.h"
 #include "HIDTypes.h"
